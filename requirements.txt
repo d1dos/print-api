@@ -1,0 +1,9 @@
+runpod
+torch
+rembg
+trimesh
+pymeshfix
+numpy
+Pillow
+onnxruntime
+git+https://github.com/VAST-AI-Research/TripoSR.git
